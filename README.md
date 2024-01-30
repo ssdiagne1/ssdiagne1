@@ -34,7 +34,7 @@ As a recent graduate in Computer Science with a specialization in Software, Syst
 
 <a href="http://www.github.com/ssdiagne1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssdiagne1&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+<a href="http://www.github.com/ssdiagne1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ssdiagne1&bg_color=0f172a&color=ffffff&line=6366f1&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
