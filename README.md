@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------------
 
-As a recent graduate in Computer Science with a specialization in Software, Systems, and Networks, I possess hands-on expertise in C#, .NET, Java, Spring, and various web technologies. My passion lies in software development, where I continuously seek opportunities to enhance efficiency and streamline processes.
+As a recent graduate in Computer Science with a specialization in Software, Systems, and Networks, I possess hands-on experience in C#, .NET, Java, Spring, and various web technologies. My passion lies in software development, where I continuously seek opportunities to enhance efficiency and streamline processes.
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [My website](http://www.sambadev.com)
